@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://example.com/">
+  <a href="#">
     <img src="https://res.cloudinary.com/anggara-roshandi-putra/image/upload/c_crop,h_101,w_500/v1691901506/Puiters/assets/Puiters._pq0fwx.svg" alt="Logo" width=300 height=101>
   </a>
 
